@@ -26,7 +26,7 @@ const greeting = {
     "I'm a Front-end Developer  Currently looking for an opportunity to utilize my technical skills in a challenging working environment and become a valuable asset to the organization."
   ),
   resumeLink:
-    "https://shorturl.at/ZtYS4", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1_p0mqx7vV5_904Axvm8A9nV9TjansrSe/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -385,7 +385,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   
-  email_address: "princypatwa2003@gmail.com"
+  email_address: "princypatwa.nit@gmail.com"
 };
 
 // Twitter Section
